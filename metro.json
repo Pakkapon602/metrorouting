@@ -1,0 +1,1878 @@
+{
+    "stations": [
+        {
+            "id": "CEN",
+            "name": "สยาม",
+            "lines": ["สายสุขุมวิท", "สายสีลม"]
+            
+        },
+        {
+            "id": "E1",
+            "name": "ชิดลม",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E2",
+            "name": "เพลินจิต",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E3",
+            "name": "นานา",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E4",
+            "name": "อโศก",
+            "lines": ["สายสุขุมวิท","เดินเท้า"]
+        },
+        {
+            "id": "E5",
+            "name": "พร้อมพงษ์",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E6",
+            "name": "ทองหล่อ",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E7",
+            "name": "เอกมัย",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E8",
+            "name": "พระโขนง",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E9",
+            "name": "อ่อนนุช",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E10",
+            "name": "บางจาก",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E11",
+            "name": "ปุณณวิถี",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E12",
+            "name": "อุดมสุข",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E13",
+            "name": "บางนา",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E14",
+            "name": "แบริ่ง",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "YL23",
+            "name": "สำโรง",
+            "lines": ["สายสุขุมวิท","สายสีเหลือง"]
+        },
+        {
+            "id": "E16",
+            "name": "ปู่เจ้า",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E17",
+            "name": "ช้างเอราวัณ",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E18",
+            "name": "โรงเรียนนายเรือ",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E19",
+            "name": "ปากน้ำ",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E20",
+            "name": "ศรีนครินทร์",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E21",
+            "name": "แพรกษา",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E22",
+            "name": "สายลวด",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "E23",
+            "name": "เคหะฯ",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "N1",
+            "name": "ราชเทวี",
+            "lines": ["สายสุขุมวิท"]
+        },
+        {
+            "id": "N2",
+            "name": "พญาไท",
+            "lines": ["สายสุขุมวิท","แอร์พอร์ต เรล ลิงก์"]
+            
+        },
+        {
+            "id": "N3",
+            "name": "อนุสาวรีย์ชัยสมรภูมิ",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N4",
+            "name": "สนามเป้า",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N5",
+            "name": "อารีย์",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+
+        {
+            "id": "N6",
+            "name": "เสนาร่วม",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        
+        {
+            "id": "N7",
+            "name": "สะพานควาย",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N8",
+            "name": "หมอชิต",
+            "lines": ["สายสุขุมวิท","เดินเท้า"]
+            
+        },
+        {
+            "id": "N9",
+            "name": "ห้าแยกลาดพร้าว",
+            "lines": ["สายสุขุมวิท","เดินเท้า"]
+            
+        },
+        {
+            "id": "N10",
+            "name": "พหลโยธิน 24",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N11",
+            "name": "รัชโยธิน",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N12",
+            "name": "เสนานิคม",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N13",
+            "name": "มหาวิทยาลัยเกษตรศาสตร์",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N14",
+            "name": "กรมป่าไม้",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N15",
+            "name": "บางบัว",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N16",
+            "name": "กรมทหารราบที่ 11",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N17",
+            "name": "วัดพระศรีมหาธาตุ",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N18",
+            "name": "พหลโยธิน 59",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N19",
+            "name": "สายหยุด",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N20",
+            "name": "สะพานใหม่",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N21",
+            "name": "โรงพยาบาลภูมิพลอดุลยเดช",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N22",
+            "name": "พิพิธภัณฑ์กองทัพอากาศ",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N23",
+            "name": "แยก คปอ.",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "N24",
+            "name": "คูคต",
+            "lines": ["สายสุขุมวิท"]
+            
+        },
+        {
+            "id": "W1",
+            "name": "สนามกีฬาแห่งชาติ",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S1",
+            "name": "ราชดำริ",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S2",
+            "name": "ศาลาแดง",
+            "lines": ["สายสีลม","เดินเท้า"]
+        },
+        {
+            "id": "S3",
+            "name": "ช่องนนทรี",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S4",
+            "name": "เซนต์หลุยส์",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S5",
+            "name": "สุรศักดิ์",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S6",
+            "name": "สะพานตากสิน",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S7",
+            "name": "กรุงธนบุรี",
+            "lines": ["สายสีลม","สายสีทอง"]
+        },
+        {
+            "id": "S8",
+            "name": "วงเวียนใหญ่",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S9",
+            "name": "โพธิ์นิมิตร",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S10",
+            "name": "ตลาดพลู",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "S11",
+            "name": "วุฒากาศ",
+            "lines": ["สายสีลม"]
+        },
+        {
+            "id": "G2",
+            "name": "เจริญนคร",
+            "lines": ["สายสีทอง"]
+        },
+        {
+            "id": "G3",
+            "name": "คลองสาน",
+            "lines": ["สายสีทอง"]
+        },{
+            "id": "S12",
+            "name": "บางหว้า",
+            "lines": ["สายสีลม","สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL1",
+            "name": "ท่าพระ",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL2",
+            "name": "จรัญฯ 13",
+            "lines": ["สายสีน้ำเงิน"]
+        },{
+            "id": "BL3",
+            "name": "ไฟฉาย",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL4",
+            "name": "บางขุนนนท์",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL5",
+            "name": "บางยี่ขัน",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL6",
+            "name": "สิรินธร",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL7",
+            "name": "บางพลัด",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL8",
+            "name": "บางอ้อ",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL9",
+            "name": "บางโพ",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL10",
+            "name": "เตาปูน",
+            "lines": ["สายสีน้ำเงิน","สายสีม่วง"]
+        },
+        {
+            "id": "BL11",
+            "name": "บางซื่อ",
+            "lines": ["สายสีน้ำเงิน","เดินเท้า"]
+        },
+        {
+            "id": "BL12",
+            "name": "กำแพงเพชร",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL13",
+            "name": "สวนจตุจักร",
+            "lines": ["สายสีน้ำเงิน","เดินเท้า"]
+        },
+        {
+            "id": "BL14",
+            "name": "พหลโยธิน",
+            "lines": ["สายสีน้ำเงิน","เดินเท้า"]
+        },
+        {
+            "id": "BL15",
+            "name": "ลาดพร้าว",
+            "lines": ["สายสีน้ำเงิน","สายสีเหลือง"]
+        },
+        {
+            "id": "BL16",
+            "name": "รัชดาภิเษก",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL17",
+            "name": "สุทธิสาร",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL18",
+            "name": "ห้วยขวาง",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL19",
+            "name": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL20",
+            "name": "พระราม 9",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL21",
+            "name": "เพชรบุรี",
+            "lines": ["สายสีน้ำเงิน","เดินเท้า"]
+        },
+        {
+            "id": "BL22",
+            "name": "สุขุมวิท",
+            "lines": ["สายสีน้ำเงิน","เดินเท้า"]
+        },
+        {
+            "id": "BL23",
+            "name": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL24",
+            "name": "คลองเตย",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL25",
+            "name": "ลุมพินี",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL26",
+            "name": "สีลม",
+            "lines": ["สายสีน้ำเงิน","เดินเท้า"]
+        },
+        {
+            "id": "BL27",
+            "name": "สามย่าน",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL28",
+            "name": "หัวลำโพง",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL29",
+            "name": "วัดมังกร",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL30",
+            "name": "สามยอด",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL31",
+            "name": "สนามไชย",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL32",
+            "name": "อิสรภาพ",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL33",
+            "name": "บางไผ่",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL35",
+            "name": "เพชรเกษม 48",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL36",
+            "name": "ภาษีเจริญ",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL37",
+            "name": "บางแค",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "BL38",
+            "name": "หลักสอง",
+            "lines": ["สายสีน้ำเงิน"]
+        },
+        {
+            "id": "A1",
+            "name": "สุวรรณภูมิ",
+            "lines": ["แอร์พอร์ต เรล ลิงก์"]
+        },
+        {
+            "id": "A2",
+            "name": "ลาดกระบัง",
+            "lines": ["แอร์พอร์ต เรล ลิงก์"]
+        },{
+            "id": "A3",
+            "name": "บ้านทับช้าง",
+            "lines": ["แอร์พอร์ต เรล ลิงก์"]
+        },{
+            "id": "A4",
+            "name": "ARL หัวหมาก",
+            "lines": ["แอร์พอร์ต เรล ลิงก์","เดินเท้า"]
+        },{
+            "id": "A5",
+            "name": "รามคำแหง",
+            "lines": ["แอร์พอร์ต เรล ลิงก์"]
+        },{
+            "id": "A6",
+            "name": "มักกะสัน",
+            "lines": ["แอร์พอร์ต เรล ลิงก์","เดินเท้า"]
+        },{
+            "id": "A7",
+            "name": "ราชปรารภ",
+            "lines": ["แอร์พอร์ต เรล ลิงก์"]
+        },{
+            "id": "PP1",
+            "name": "คลองบางไผ่",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP2",
+            "name": "ตลาดบางใหญ่",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP3",
+            "name": "สามแยกบางใหญ่",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP4",
+            "name": "บางพลู",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP5",
+            "name": "บางรักใหญ่",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP6",
+            "name": "บางรักน้อยท่าอิฐ",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP7",
+            "name": "ไทรม้า",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP8",
+            "name": "สะพานพระนั่งเกล้า",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP9",
+            "name": "แยกนนทบุรี 1",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP10",
+            "name": "บางกระสอ",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP11",
+            "name": "ศูนย์ราชการนนทบุรี",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP12",
+            "name": "กระทรวงสาธารณสุข",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP13",
+            "name": "แยกติวานนท์",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP14",
+            "name": "วงศ์สว่าง",
+            "lines": ["สายสีม่วง"]
+        },{
+            "id": "PP15",
+            "name": "บางซ่อน",
+            "lines": ["สายสีม่วง","สายสีแดง"]
+        },{
+            "id": "R1",
+            "name": "กรุงเทพอภิวัฒน์",
+            "lines": ["สายสีแดง","เดินเท้า"]
+        },{
+            "id": "RW5",
+            "name": "บางบำหรุ",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RW6",
+            "name": "ตลิ่งชัน",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN2",
+            "name": "จตุจักร",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN3",
+            "name": "วัดเสมียนนารี",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN4",
+            "name": "บางเขน",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN5",
+            "name": "ทุ่งสองห้อง",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN6",
+            "name": "หลักสี่",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN7",
+            "name": "การเคหะ",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN8",
+            "name": "ดอนเมือง",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN9",
+            "name": "หลักหก",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "RN10",
+            "name": "รังสิต",
+            "lines": ["สายสีแดง"]
+        },{
+            "id": "YL2",
+            "name": "ภาวนา",
+            "lines": ["สายสีเหลือง"]
+        },{
+            "id": "YL3",
+            "name": "โชคชัย 4",
+            "lines": ["สายสีเหลือง"]
+        },{
+            "id": "YL4",
+            "name": "ลาดพร้าว 71",
+            "lines": ["สายสีเหลือง"]
+        },{
+            "id": "YL5",
+            "name": "ลาดพร้าว 83",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL6",
+            "name": "มหาดไทย",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL7",
+            "name": "ลาดพร้าว 101",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL8",
+            "name": "บางกะปิ",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL9",
+            "name": "แยกลำสาลี",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL10",
+            "name": "ศรีกรีฑา",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL11",
+            "name": "MRT หัวหมาก",
+            "lines": ["เดินเท้า","สายสีเหลือง"]
+        },
+        {
+            "id": "YL12",
+            "name": "กลันตัน",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL13",
+            "name": "ศรีนุช",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL14",
+            "name": "ศรีนครินทร์ 38",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL15",
+            "name": "สวนหลวง ร.9",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL16",
+            "name": "ศรีอุดม",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL17",
+            "name": "ศรีเอี่ยม",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL18",
+            "name": "ศรีลาซาล",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL19",
+            "name": "ศรีแบริ่ง",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL20",
+            "name": "ศรีด่าน",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL21",
+            "name": "ศรีเทพา",
+            "lines": ["สายสีเหลือง"]
+        },
+        {
+            "id": "YL22",
+            "name": "ทิพวัล",
+            "lines": ["สายสีเหลือง"]
+        }
+    ],
+    "edges": [
+        {
+            "source": "CEN",
+            "target": "E1",
+            "transitTime": 1,
+            "distance": 0.947,
+            "type":"BTS"
+        },
+        {
+            "source": "E1",
+            "target": "E2",
+            "transitTime": 2,
+            "distance": 0.660,
+            "type":"BTS"
+        },
+        {
+            "source": "E2",
+            "target": "E3",
+            "transitTime": 1,
+            "distance": 0.769,
+            "type":"BTS"
+        },
+        {
+            "source": "E3",
+            "target": "E4",
+            "transitTime": 2,
+            "distance": 0.633,
+            "type":"BTS"
+        },
+        {
+            "source": "E4",
+            "target": "BL22",
+            "transitTime": 4,
+            "distance": 0.300,
+            "type":"free"
+        },
+        {
+            "source": "E4",
+            "target": "E5",
+            "transitTime": 2,
+            "distance": 1.270,
+            "type":"BTS"
+        },
+        {
+            "source": "E5",
+            "target": "E6",
+            "transitTime": 2,
+            "distance": 1.160,
+            "type":"BTS"
+        },
+        {
+            "source": "E6",
+            "target": "E7",
+            "transitTime": 1,
+            "distance": 1.700,
+            "type":"BTS"
+        },
+        {
+            "source": "E7",
+            "target": "E8",
+            "transitTime": 2,
+            "distance": 1.520,
+            "type":"BTS"
+        },
+        {
+            "source": "E8",
+            "target": "E9",
+            "transitTime": 2,
+            "distance": 1.100,
+            "type":"BTS"
+        },
+        {
+            "source": "E9",
+            "target": "E10",
+            "transitTime": 2,
+            "distance": 0.921,
+            "type":"fifteen"
+        },
+        {
+            "source": "E10",
+            "target": "E11",
+            "transitTime": 2,
+            "distance": 0.928,
+            "type":"fifteen"
+        },
+        {
+            "source": "E11",
+            "target": "E12",
+            "transitTime": 2,
+            "distance": 1.100,
+            "type":"fifteen"
+        },
+        {
+            "source": "E12",
+            "target": "E13",
+            "transitTime": 2,
+            "distance": 1.420,
+            "type":"fifteen"
+        },
+        {
+            "source": "E13",
+            "target": "E14",
+            "transitTime": 1,
+            "distance": 0.829,
+            "type":"fifteen"
+        },
+        {
+            "source": "E14",
+            "target": "YL23",
+            "transitTime": 3,
+            "distance": 1.800,
+            "type":"free"
+        },
+        {
+            "source": "YL23",
+            "target": "E16",
+            "transitTime": 2,
+            "distance": 1.070,
+            "type":"free"
+        },
+        {
+            "source": "E16",
+            "target": "E17",
+            "transitTime": 3,
+            "distance": 1.930,
+            "type":"free"
+        },
+        {
+            "source": "E17",
+            "target": "E18",
+            "transitTime": 2,
+            "distance": 1.530,
+            "type":"free"
+        },
+        
+        {
+            "source": "E18",
+            "target": "E19",
+            "transitTime": 2,
+            "distance": 0.767,
+            "type":"free"
+        },
+        {
+            "source": "E19",
+            "target": "E20",
+            "transitTime": 3,
+            "distance": 1.810,
+            "type":"free"
+        },
+        {
+            "source": "E20",
+            "target": "E21",
+            "transitTime": 2,
+            "distance": 0.926,
+            "type":"free"
+        },
+        {
+            "source": "E21",
+            "target": "E22",
+            "transitTime": 2,
+            "distance": 0.802,
+            "type":"free"
+        },
+        {
+            "source": "E22",
+            "target": "E23",
+            "transitTime": 2,
+            "distance": 1.190,
+            "type":"free"
+        },
+        {
+            "source": "CEN",
+            "target": "N1",
+            "transitTime": 2,
+            "distance": 0.987,
+            "type":"BTS"
+        },
+        {
+            "source": "N1",
+            "target": "N2",
+            "transitTime": 2,
+            "distance": 0.604,
+            "type":"BTS"
+        },
+        {
+            "source": "N2",
+            "target": "N3",
+            "transitTime": 2,
+            "distance": 0.740,
+            "type":"BTS"
+        },
+        {
+            "source": "N3",
+            "target": "N4",
+            "transitTime": 3,
+            "distance": 1.290,
+            "type":"BTS"
+        },
+        {
+            "source": "N4",
+            "target": "N5",
+            "transitTime": 1,
+            "distance": 0.820,
+            "type":"BTS"
+        },
+        {
+            "source": "N5",
+            "target": "N6",
+            "transitTime": 1,
+            "distance": 0.740,
+            "type":"BTS"
+        },
+        {
+            "source": "N6",
+            "target": "N7",
+            "transitTime": 2,
+            "distance": 0.930,
+            "type":"BTS"
+        },
+        {
+            "source": "N7",
+            "target": "N8",
+            "transitTime": 1,
+            "distance": 1.060,
+            "type":"BTS"
+        },
+        {
+            "source": "N8",
+            "target": "N9",
+            "transitTime": 4,
+            "distance": 1.770,
+            "type":"free"
+        },
+        {
+            "source": "N8",
+            "target": "BL13",
+            "transitTime": 1,
+            "distance": 0.068,
+            "type":"free"
+        },
+        {
+            "source": "N9",
+            "target": "N10",
+            "transitTime": 2,
+            "distance": 0.963,
+            "type":"free"
+        },
+        {
+            "source": "N9",
+            "target": "BL14",
+            "transitTime": 6,
+            "distance": 0.350,
+            "type":"free"
+        },
+        {
+            "source": "N10",
+            "target": "N11",
+            "transitTime": 1,
+            "distance": 0.710,
+            "type":"free"
+        },
+        {
+            "source": "N11",
+            "target": "N12",
+            "transitTime": 2,
+            "distance": 0.850,
+            "type":"free"
+        },
+        {
+            "source": "N12",
+            "target": "N13",
+            "transitTime": 1,
+            "distance": 0.734,
+            "type":"free"
+        },
+        {
+            "source": "N13",
+            "target": "N14",
+            "transitTime": 2,
+            "distance": 1.020,
+            "type":"free"
+        },
+        {
+            "source": "N14",
+            "target": "N15",
+            "transitTime": 1,
+            "distance": 0.737,
+            "type":"free"
+        },
+        {
+            "source": "N15",
+            "target": "N16",
+            "transitTime": 2,
+            "distance": 1.460,
+            "type":"free"
+        },
+        {
+            "source": "N16",
+            "target": "N17",
+            "transitTime": 2,
+            "distance": 1.000,
+            "type":"free"
+        },
+        {
+            "source": "N17",
+            "target": "N18",
+            "transitTime": 2,
+            "distance": 0.900,
+            "type":"free"
+        },
+        {
+            "source": "N18",
+            "target": "N19",
+            "transitTime": 2,
+            "distance": 0.774,
+            "type":"free"
+        },
+        {
+            "source": "N19",
+            "target": "N20",
+            "transitTime": 2,
+            "distance": 1.07,
+            "type":"free"
+        },
+        {
+            "source": "N20",
+            "target": "N21",
+            "transitTime": 2,
+            "distance": 1.820,
+            "type":"free"
+        },
+        {
+            "source": "N21",
+            "target": "N22",
+            "transitTime": 2,
+            "distance": 0.907,
+            "type":"free"
+        },
+        {
+            "source": "N22",
+            "target": "N23",
+            "transitTime": 2,
+            "distance": 0.903,
+            "type":"free"
+        },
+        {
+            "source": "N23",
+            "target": "N24",
+            "transitTime": 2,
+            "distance": 2.460,
+            "type":"free"
+        },
+        {
+            "source": "CEN",
+            "target": "W1",
+            "transitTime": 1,
+            "distance": 0.556,
+            "type":"BTS"
+        },
+        {
+            "source": "CEN",
+            "target": "S1",
+            "transitTime": 3,
+            "distance": 1.220,
+            "type":"BTS"
+        },
+        {
+            "source": "S1",
+            "target": "S2",
+            "transitTime": 3,
+            "distance": 1.430,
+            "type":"BTS"
+        },
+        {
+            "source": "S2",
+            "target": "S3",
+            "transitTime": 2,
+            "distance": 1.000,
+            "type":"BTS"
+        },
+        {
+            "source": "S2",
+            "target": "BL26",
+            "transitTime": 3,
+            "distance": 0.180,
+            "type":"free"
+        },
+        {
+            "source": "S3",
+            "target": "S4",
+            "transitTime": 2,
+            "distance": 0.568,
+            "type":"BTS"
+        },
+        {
+            "source": "S4",
+            "target": "S5",
+            "transitTime": 1,
+            "distance": 0.613,
+            "type":"BTS"
+        },
+        {
+            "source": "S5",
+            "target": "S6",
+            "transitTime": 2,
+            "distance": 0.836,
+            "type":"BTS"
+        },
+        {
+            "source": "S6",
+            "target": "S7",
+            "transitTime": 3,
+            "distance": 1.150,
+            "type":"BTS"
+        },
+        {
+            "source": "S7",
+            "target": "S8",
+            "transitTime": 1,
+            "distance": 0.915,
+            "type":"BTS"
+        },{
+            "source": "S8",
+            "target": "S9",
+            "transitTime": 2,
+            "distance": 1.030,
+            "type":"fifteen"
+        },
+        {
+            "source": "S9",
+            "target": "S10",
+            "transitTime": 2,
+            "distance": 1.130,
+            "type":"fifteen"
+            
+        },
+        {
+            "source": "S10",
+            "target": "S11",
+            "transitTime": 2,
+            "distance": 0.9420,
+            "type":"fifteen"
+        },{
+            "source": "S11",
+            "target": "S12",
+            "transitTime": 2,
+            "distance": 1.640,
+            "type":"fifteen"
+        },{
+            "source": "S7",
+            "target": "G2",
+            "transitTime": 3,
+            "distance": 1.150,
+            "type":"sixteen"
+        },{
+            "source": "G2",
+            "target": "G3",
+            "transitTime": 2,
+            "distance": 0.500,
+            "type":"sixteen"
+        },{
+            "source": "BL1",
+            "target": "BL2",
+            "transitTime": 2,
+            "distance": 1.170,
+            "type":"Blue"
+        },
+        {
+            "source": "BL2",
+            "target": "BL3",
+            "transitTime": 2,
+            "distance": 1.173,
+            "type":"Blue"
+        },
+        {
+            "source": "BL3",
+            "target": "BL4",
+            "transitTime": 1,
+            "distance": 1.050,
+            "type":"Blue"
+        },
+        {
+            "source": "BL4",
+            "target": "BL5",
+            "transitTime": 3,
+            "distance": 2.040,
+            "type":"Blue"
+        },
+        {
+            "source": "BL5",
+            "target": "BL6",
+            "transitTime": 2,
+            "distance": 1.160,
+            "type":"Blue"
+        },
+        {
+            "source": "BL6",
+            "target": "BL7",
+            "transitTime": 2,
+            "distance": 1.570,
+            "type":"Blue"
+        },
+        {
+            "source": "BL7",
+            "target": "BL8",
+            "transitTime": 2,
+            "distance": 0.877,
+            "type":"Blue"
+        },{
+            "source": "BL8",
+            "target": "BL9",
+            "transitTime": 3,
+            "distance": 1.630,
+            "type":"Blue"
+        },{
+            "source": "BL9",
+            "target": "BL10",
+            "transitTime": 2,
+            "distance": 1.070,
+            "type":"Blue"
+        },{
+            "source": "BL11",
+            "target": "R1",
+            "transitTime": 2,
+            "distance": 0.10,
+            "type":"free"
+        },{
+            "source": "BL10",
+            "target": "BL11",
+            "transitTime": 2,
+            "distance": 0.976,
+            "type":"Blue"
+        },
+        {
+            "source": "BL11",
+            "target": "BL12",
+            "transitTime": 2,
+            "distance": 1.160,
+            "type":"Blue"
+        },
+        {
+            "source": "BL12",
+            "target": "BL13",
+            "transitTime": 2,
+            "distance": 0.953,
+            "type":"Blue"
+        },
+        {
+            "source": "BL13",
+            "target": "BL14",
+            "transitTime": 2,
+            "distance": 1.490,
+            "type":"Blue"
+        },
+        {
+            "source": "BL14",
+            "target": "BL15",
+            "transitTime": 2,
+            "distance": 1.700,
+            "type":"Blue"
+        },
+        {
+            "source": "BL15",
+            "target": "BL16",
+            "transitTime": 2,
+            "distance": 0.829,
+            "type":"Blue"
+        },
+        {
+            "source": "BL16",
+            "target": "BL17",
+            "transitTime": 2,
+            "distance": 1.030,
+            "type":"Blue"
+        },
+        {
+            "source": "BL17",
+            "target": "BL18",
+            "transitTime": 2,
+            "distance": 1.270,
+            "type":"Blue"
+        },
+        {
+            "source": "BL18",
+            "target": "BL19",
+            "transitTime": 3,
+            "distance": 1.460,
+            "type":"Blue"
+        },
+        {
+            "source": "BL19",
+            "target": "BL20",
+            "transitTime": 2,
+            "distance": 1.080,
+            "type":"Blue"
+        },
+        {
+            "source": "BL20",
+            "target": "BL21",
+            "transitTime": 2,
+            "distance": 1.050,
+            "type":"Blue"
+        },
+        {
+            "source": "BL21",
+            "target": "BL22",
+            "transitTime": 2,
+            "distance": 1.150,
+            "type":"Blue"
+        },
+        {
+            "source": "BL22",
+            "target": "BL23",
+            "transitTime": 2,
+            "distance": 1.760,
+            "type":"Blue"
+        },
+        {
+            "source": "BL23",
+            "target": "BL24",
+            "transitTime": 2,
+            "distance": 0.829,
+            "type":"Blue"
+        },
+        {
+            "source": "BL24",
+            "target": "BL25",
+            "transitTime": 2,
+            "distance": 0.974,
+            "type":"Blue"
+        },
+        {
+            "source": "BL25",
+            "target": "BL26",
+            "transitTime": 2,
+            "distance": 1.050,
+            "type":"Blue"
+        },
+        {
+            "source": "BL26",
+            "target": "BL27",
+            "transitTime": 2,
+            "distance": 0.790,
+            "type":"Blue"
+        },
+        {
+            "source": "BL27",
+            "target": "BL28",
+            "transitTime": 2,
+            "distance": 1.540,
+            "type":"Blue"
+        },
+        {
+            "source": "BL28",
+            "target": "BL29",
+            "transitTime": 2,
+            "distance": 0.883,
+            "type":"Blue"
+        },
+        {
+            "source": "BL29",
+            "target": "BL30",
+            "transitTime": 2,
+            "distance": 1.050,
+            "type":"Blue"
+        },
+        {
+            "source": "BL30",
+            "target": "BL31",
+            "transitTime": 2,
+            "distance": 1.230,
+            "type":"Blue"
+        },
+        {
+            "source": "BL31",
+            "target": "BL32",
+            "transitTime": 2,
+            "distance": 1.380,
+            "type":"Blue"
+        },
+        {
+            "source": "BL32",
+            "target": "BL1",
+            "transitTime": 2,
+            "distance": 1.630,
+            "type":"Blue"
+        },
+        {
+            "source": "BL1",
+            "target": "BL33",
+            "transitTime": 2,
+            "distance": 1.130,
+            "type":"Blue"
+        },
+        {
+            "source": "BL33",
+            "target": "S12",
+            "transitTime": 1,
+            "distance": 0.918,
+            "type":"Blue"
+        },
+        {
+            "source": "S12",
+            "target": "BL35",
+            "transitTime": 2,
+            "distance": 1.430,
+            "type":"Blue"
+        },
+        {
+            "source": "BL35",
+            "target": "BL36",
+            "transitTime": 2,
+            "distance": 1.280,
+            "type":"Blue"
+        },
+        {
+            "source": "BL36",
+            "target": "BL37",
+            "transitTime": 2,
+            "distance": 1.270,
+            "type":"Blue"
+        },
+        {
+            "source": "BL37",
+            "target": "BL38",
+            "transitTime": 2,
+            "distance": 1.340,
+            "type":"Blue"
+        },
+        {
+            "source": "A1",
+            "target": "A2",
+            "transitTime": 5,
+            "distance": 5.300,
+            "type":"Air"
+        },
+        {
+            "source": "A2",
+            "target": "A3",
+            "transitTime": 5,
+            "distance": 6.270,
+            "type":"Air"
+        },
+        {
+            "source": "A3",
+            "target": "A4",
+            "transitTime": 4,
+            "distance": 4.950,
+            "type":"Air"
+        },{
+            "source": "A4",
+            "target": "A5",
+            "transitTime": 4,
+            "distance": 4.900,
+            "type":"Air"
+        },{
+            "source": "A5",
+            "target": "BL21",
+            "transitTime": 8,
+            "distance": 0.500,
+            "type":"free"
+        },{
+            "source": "A5",
+            "target": "A6",
+            "transitTime": 4,
+            "distance": 4.370,
+            "type":"Air"
+        },{
+            "source": "A6",
+            "target": "A7",
+            "transitTime": 3,
+            "distance": 2.050,
+            "type":"Air"
+        },{
+            "source": "A7",
+            "target": "N2",
+            "transitTime": 1,
+            "distance": 0.810,
+            "type":"Air"
+        },{
+            "source": "PP1",
+            "target": "PP2",
+            "transitTime": 2,
+            "distance": 1.270,
+            "type":"Purple"
+        },{
+            "source": "PP2",
+            "target": "PP3",
+            "transitTime": 3,
+            "distance": 1.570,
+            "type":"Purple"
+        },
+        {
+            "source": "PP3",
+            "target": "PP4",
+            "transitTime": 2,
+            "distance": 1.560,
+            "type":"Purple"
+        },
+        {
+            "source": "PP4",
+            "target": "PP5",
+            "transitTime": 2,
+            "distance": 1.210,
+            "type":"Purple"
+        },
+        {
+            "source": "PP5",
+            "target": "PP6",
+            "transitTime": 3,
+            "distance": 1.260,
+            "type":"Purple"
+        },
+        {
+            "source": "PP6",
+            "target": "PP7",
+            "transitTime": 2,
+            "distance": 1.230,
+            "type":"Purple"
+        },
+        {
+            "source": "PP7",
+            "target": "PP8",
+            "transitTime": 2,
+            "distance": 1.620,
+            "type":"Purple"
+        },
+        {
+            "source": "PP8",
+            "target": "PP9",
+            "transitTime": 3,
+            "distance": 1.210,
+            "type":"Purple"
+        },
+        {
+            "source": "PP9",
+            "target": "PP10",
+            "transitTime": 2,
+            "distance": 0.932,
+            "type":"Purple"
+        },
+        {
+            "source": "PP10",
+            "target": "PP11",
+            "transitTime": 2,
+            "distance": 1.760,
+            "type":"Purple"
+        },
+        {
+            "source": "PP11",
+            "target": "PP12",
+            "transitTime": 4,
+            "distance": 1.200,
+            "type":"Purple"
+        },
+        {
+            "source": "PP12",
+            "target": "PP13",
+            "transitTime": 2,
+            "distance": 1.670,
+            "type":"Purple"
+        },
+        {
+            "source": "PP13",
+            "target": "PP14",
+            "transitTime": 3,
+            "distance": 1.380,
+            "type":"Purple"
+        },
+        {
+            "source": "PP14",
+            "target": "BL10",
+            "transitTime": 3,
+            "distance": 1.580,
+            "type":"Purple"
+        },{
+            "source": "PP15",
+            "target": "BL10",
+            "transitTime": 2,
+            "distance": 0.810,
+            "type":"Purple"
+        },{
+            "source": "R1",
+            "target": "PP15",
+            "transitTime": 4,
+            "distance": 2.980,
+            "type":"Red"
+        },{
+            "source": "PP15",
+            "target": "RW5",
+            "transitTime": 7,
+            "distance": 7.210,
+            "type":"Red"
+        },{
+            "source": "RW5",
+            "target": "RW6",
+            "transitTime": 5,
+            "distance": 4.300,
+            "type":"Red"
+        },{
+            "source": "R1",
+            "target": "RN2",
+            "transitTime": 3,
+            "distance": 2.650,
+            "type":"Red"
+        },{
+            "source": "RN2",
+            "target": "RN3",
+            "transitTime": 2,
+            "distance": 1.940,
+            "type":"Red"
+        },{
+            "source": "RN3",
+            "target": "RN4",
+            "transitTime": 2,
+            "distance": 0.960,
+            "type":"Red"
+        },{
+            "source": "RN4",
+            "target": "RN5",
+            "transitTime": 2,
+            "distance": 1.380,
+            "type":"Red"
+        },{
+            "source": "RN5",
+            "target": "RN6",
+            "transitTime": 3,
+            "distance": 3.270,
+            "type":"Red"
+        },{
+            "source": "RN6",
+            "target": "RN7",
+            "transitTime": 2,
+            "distance": 1.580,
+            "type":"Red"
+        },{
+            "source": "RN7",
+            "target": "RN8",
+            "transitTime": 2,
+            "distance": 2.080,
+            "type":"Red"
+        },{
+            "source": "RN8",
+            "target": "RN9",
+            "transitTime": 4,
+            "distance": 5.940,
+            "type":"Red"
+        },{
+            "source": "RN9",
+            "target": "RN10",
+            "transitTime": 3,
+            "distance": 2.750,
+            "type":"Red"
+        },{
+            "source": "BL15",
+            "target": "YL2",
+            "transitTime": 4,
+            "distance": 1.330,
+            "type":"Yellow"
+        },{
+            "source": "YL2",
+            "target": "YL3",
+            "transitTime": 3,
+            "distance": 1.270,
+            "type":"Yellow"
+        },{
+            "source": "YL3",
+            "target": "YL4",
+            "transitTime": 3,
+            "distance": 1.630,
+            "type":"Yellow"
+        },{
+            "source": "YL4",
+            "target": "YL5",
+            "transitTime": 2,
+            "distance": 0.770,
+            "type":"Yellow"
+        },{
+            "source": "YL5",
+            "target": "YL6",
+            "transitTime": 3,
+            "distance": 1.180,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL6",
+            "target": "YL7",
+            "transitTime": 2,
+            "distance": 0.834,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL7",
+            "target": "YL8",
+            "transitTime": 3,
+            "distance": 1.230,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL8",
+            "target": "YL9",
+            "transitTime": 3,
+            "distance": 1.170,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL9",
+            "target": "YL10",
+            "transitTime": 3,
+            "distance": 1.300,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL10",
+            "target": "YL11",
+            "transitTime": 3,
+            "distance": 1.590,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL11",
+            "target": "A4",
+            "transitTime": 9,
+            "distance": 0.600,
+            "type":"free"
+        },
+        {
+            "source": "YL11",
+            "target": "YL12",
+            "transitTime": 3,
+            "distance": 1.230,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL12",
+            "target": "YL13",
+            "transitTime": 3,
+            "distance": 1.610,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL13",
+            "target": "YL14",
+            "transitTime": 3,
+            "distance": 1.150,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL14",
+            "target": "YL15",
+            "transitTime": 3,
+            "distance": 1.160,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL15",
+            "target": "YL16",
+            "transitTime": 4,
+            "distance": 1.590,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL16",
+            "target": "YL17",
+            "transitTime": 2,
+            "distance": 1.000,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL17",
+            "target": "YL18",
+            "transitTime": 3,
+            "distance": 1.450,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL18",
+            "target": "YL19",
+            "transitTime": 3,
+            "distance": 1.430,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL19",
+            "target": "YL20",
+            "transitTime": 3,
+            "distance": 1.330,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL20",
+            "target": "YL21",
+            "transitTime": 3,
+            "distance": 1.160,
+            "type":"Yellow"
+        },
+        {
+            "source": "YL21",
+            "target": "YL22",
+            "transitTime": 3,
+            "distance": 1.580,
+            "type":"Yellow"
+        },{
+            "source": "YL22",
+            "target": "YL23",
+            "transitTime": 4,
+            "distance": 1.730,
+            "type":"Yellow"
+        }
+    
+    ]
+}
